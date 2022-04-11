@@ -78,13 +78,7 @@ else:
     text_turtle.write(f"You are wrong, {winner} was the winner", font = ("Yo Ghothic",18,"bold"))
 screen.tracer(1)
 
-##filling = random.choice(colors)
-##race_turtle = turtle.Turtle("turtle")
-##race_turtle.color(filling)
-##track_f = -290
-##track_r = 120
-##race_turtle.penup()
-##race_turtle.goto(track_f,track_r)
+
 
 
 
